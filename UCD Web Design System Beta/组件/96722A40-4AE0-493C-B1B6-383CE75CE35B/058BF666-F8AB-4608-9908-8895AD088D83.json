@@ -1,0 +1,71 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "058BF666-F8AB-4608-9908-8895AD088D83",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "BAF1995A-8554-4615-8784-CD55A4539ACA",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "FC61BF5F-8E96-4CF0-9317-09E079DB4A61",
+    "height": 32,
+    "width": 98,
+    "x": 257,
+    "y": 144
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "button/Primary1/Normal",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "AB43483A-24F7-46A7-A42B-68ED07ECEC4C",
+      "overrideName": "A731EB8D-B7FB-4411-851A-7EE134D5250C_layerStyle",
+      "value": "6728700F-BB5F-4AC4-89BF-D67C9EE943BD"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "0129131B-3445-474D-9D66-F25DDD1BAFC1",
+      "overrideName": "6F1E6219-2FB3-45A2-BE80-427042C13660_stringValue",
+      "value": "确  定"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "04C6AE84-1233-4195-8805-88606CCDBF2E",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "9426E25E-C742-454F-96A1-9F5A41B380D1",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "size.update": 1566814879.586216
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

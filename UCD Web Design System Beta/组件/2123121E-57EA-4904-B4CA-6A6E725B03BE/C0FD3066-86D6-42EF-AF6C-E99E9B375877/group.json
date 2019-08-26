@@ -1,0 +1,61 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "C0FD3066-86D6-42EF-AF6C-E99E9B375877",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "1C76CE87-2977-4036-85DB-02247EFFA113",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "2B4CC658-2114-4759-B23D-DFDE741495D4",
+    "height": 24,
+    "width": 80,
+    "x": 0,
+    "y": 0
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "3B7581CC-7201-4298-971B-6B8580C3C190"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "4C9D66DA-6EC9-4DD2-B936-25A47EC6A722"
+    },
+    {
+      "class": "group",
+      "id": "1A80A0B4-D34F-4FA9-AF89-79F27AE1A835"
+    }
+  ],
+  "name": "编组 2 <x 8 x 8>备份",
+  "nameIsFixed": false,
+  "resizingConstraint": 18,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "70FBAFCE-CA71-4C64-BB7A-1CCD60D3BECB",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

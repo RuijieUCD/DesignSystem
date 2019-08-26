@@ -1,0 +1,95 @@
+{
+  "_class": "page",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "C129F367-325E-45F4-9916-8E28D84D4143",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 0,
+    "width": 0,
+    "x": 0,
+    "y": 0
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": -408,
+    "guides": [
+    ]
+  },
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "AB0F6BDC-DC15-4A89-81E3-4FCCBBB70211"
+    },
+    {
+      "class": "artboard",
+      "id": "E1E4D4B7-4ABE-4F23-8446-C1A1E991855C"
+    },
+    {
+      "class": "artboard",
+      "id": "CED4B03D-130A-4BF0-B198-128ED564D765"
+    },
+    {
+      "class": "artboard",
+      "id": "9A205FA1-5954-4960-BE5F-C551117F482C"
+    },
+    {
+      "class": "artboard",
+      "id": "D482A8C7-0DC5-4420-97B2-C675BE6A0153"
+    },
+    {
+      "class": "artboard",
+      "id": "A71ADA2D-28EA-4943-9B09-BC18BE0AF7B0"
+    },
+    {
+      "class": "text",
+      "id": "4AA69974-9A38-4E10-97D2-B865EBC6A9C9"
+    }
+  ],
+  "name": "栅格布局",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "com.animaapp.uses.anima": 1
+    }
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": -334,
+    "guides": [
+    ]
+  }
+}
