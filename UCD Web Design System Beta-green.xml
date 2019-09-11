@@ -1,22 +1,20 @@
-<?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle"
-  xmlns:dc="http://purl.org/dc/elements/1.1/">
-  <channel>
-    <title>Ruijie UCD Design System for wireless website-green</title>
-    <description>锐捷UCD为弱电中后台管理系统创建的设计体系</description>
-    <link>https://github.com/RuijieUCD/DesignSystem</link>
-    <image>
-        <url></url>
-        <title>ucd</title>
-        <link></link>
-    </image>
-    <generator>Sketch</generator>
-    <lastBuildDate>[UTC Time]</lastBuildDate>
-    <language>en</language>
-    <item>
-      <title>UCD Web Design System Beta-green</title>
-      <pubDate>[UTC Time]</pubDate>
-      <enclosure url="https://github.com/RuijieUCD/DesignSystem/blob/master/UCD%20Web%20Design%20System%20Beta-green.sketch" sparkle:version="V0.1" length="" type="application/octet-stream" />
-    </item>
-  </channel>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+<channel>
+<title>Ruijie UCD Design System for wireless website-green</title>
+<description>
+锐捷UCD为弱电中后台管理系统创建的设计体系
+</description>
+<image>
+<url>
+https://raw.githubusercontent.com/RuijieUCD/DesignSystem/master/logo.png
+</url>
+<title>Ruijie UCD Design System for wireless website-green</title>
+</image>
+<generator>Sketch</generator>
+<item>
+<title>Ruijie UCD Design System for wireless website-green</title>
+<pubDate>Mon, 27 May 2019 23:41:19 GMT </pubDate>
+<enclosure url="https://github.com/RuijieUCD/DesignSystem/blob/master/UCD%20Web%20Design%20System%20Beta-green.sketch" type="application/octet-stream" sparkle:version="0.1"/>
+</item>
+</channel>
 </rss>
